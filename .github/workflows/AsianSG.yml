@@ -1,4 +1,4 @@
-name: PHC_RDP
+name: BRF-REMOTE
 
 on: workflow_dispatch
 
